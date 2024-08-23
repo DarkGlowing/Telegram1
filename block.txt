@@ -1,0 +1,146 @@
+# Amazon
+.s3.amazonaws.com
+# Google
+.google-analytics.com
+.googleanalytics.com
+.analytics.google.com
+.adservice.google.com
+# Doubleclick
+.doubleclick.net
+# AdColony
+.ads30.adcolony.com
+.adc3-launch.adcolony.com
+.events3alt.adcolony.com
+.wd.adcolony.com
+# FreshWorks
+.freshmarketer.com
+# LuckyOrange
+.luckyorange.com
+# Stats Wp Plugin
+.stats.wp.com
+# Bugsnag
+.notify.bugsnag.com
+.sessions.bugsnag.com
+.api.bugsnag.com
+.app.bugsnag.com
+# Sentry
+.browser.sentry-cdn.com
+.app.getsentry.com
+# Facebook
+.pixel.facebook.com
+.an.facebook.com
+# Twitter
+.static.ads-twitter.com
+.ads-api.twitter.com
+# Linkedin
+.ads.linkedin.com
+.analytics.pointdrive.linkedin.com
+# Pinterest
+.ads.pinterest.com
+.log.pinterest.com
+.analytics.pinterest.com
+.trk.pinterest.com
+# Reddit
+.events.reddit.com
+.events.redditmedia.com
+# Youtube
+.youtube.com/api/stats/ads
+.youtube.com/pagead
+.googlesyndication.com
+.googleadservices.com
+# Tiktok
+.ads-api.tiktok.com
+.analytics.tiktok.com
+.ads-sg.tiktok.com
+.analytics-sg.tiktok.com
+.business-api.tiktok.com
+.ads.tiktok.com
+.log.byteoversea.com
+# Yahoo
+.ads.yahoo.com
+.analytics.yahoo.com
+.geo.yahoo.com
+.udc.yahoo.com
+.udcm.yahoo.com
+.analytics.query.yahoo.com
+.partnerads.ysm.yahoo.com
+.log.fc.yahoo.com
+.gemini.yahoo.com
+.adtech.yahooinc.com
+# Yandex
+.yandex.net/an/count
+.yandex.ru/an/count
+.extmaps-api.yandex.net
+.appmetrica.yandex.net
+.adfstat.yandex.net
+.metrika.yandex.net
+.offerwall.yandex.net
+.adfox.yandex.net
+.extmaps-api.yandex.ru
+.appmetrica.yandex.ru
+.adfstat.yandex.ru
+.metrika.yandex.ru
+.offerwall.yandex.net
+.adfox.yandex.ru
+# Unity
+.auction.unityads.unity3d.com
+.webview.unityads.unity3d.com
+.config.unityads.unity3d.com
+.adserver.unityads.unity3d.com
+# Xiaomi
+.ad.xiaomi.com
+.mistat.xiaomi.com
+.mistat.india.xiaomi.com
+.mistat.rus.xiaomi.com
+.intl.xiaomi.com
+.tracking.rus.miui.com
+# Oppo
+.adsfs.oppomobile.com
+.ads.oppomobile.com
+# Huawei
+.metrics.data.hicloud.com
+.metrics2.data.hicloud.com
+.grs.hicloud.com
+.logservice.hicloud.com
+.logservice1.hicloud.com
+.logbak.hicloud.com
+# OnePlus
+.click.oneplus.cn
+.open.oneplus.net
+# Realmi
+.iot-eu-logser.realme.com
+.iot-logser.realme.com
+.bdapi-ads.realmemobile.com
+.bdapi-in-ads.realmemobile.com
+# Samsung
+.samsungads.com
+.smetrics.samsung.com
+.nmetrics.samsung.com
+.samsung-com.112.2o7.net
+.analytics-api.samsunghealthcn.com
+# Apple
+.iadsdk.apple.com
+.metrics.icloud.com
+.metrics.mzstatic.com
+.api-adservices.apple.com
+.books-analytics-events.apple.com
+.weather-analytics-events.apple.com
+.notes-analytics-events.apple.com
+# HotJar
+.adm.hotjar.com
+.identify.hotjar.com
+.insights.hotjar.com
+.script.hotjar.com
+.surveys.hotjar.com
+.careers.hotjar.com
+.events.hotjar.io
+# Media
+.media.net
+# MouseFlow
+.mouseflow.com
+.cdn.mouseflow.com
+.o2.mouseflow.com
+.gtm.mouseflow.com
+.api.mouseflow.com
+.tools.mouseflow.com
+.cdn-test.mouseflow.com
